@@ -1,6 +1,6 @@
 # Folder Flattener
 
-Move files from nested subfolders into the top-level folder, then remove now-empty subfolders.
+Move files from nested subfolders into the top-level folder, then remove now-empty subfolders safely. Emphasis on 0 data-loss.
 
 ## Features
 
